@@ -13,3 +13,11 @@ cfg.path_meth = '/path/to/meth';
 % Path to the bsfit toolbox
 cfg.path_bsfit = '/path/to/bsfit';
 
+
+% Path to real EEG dataset (NOT included in this repository)
+cfg.path_realdata = '/path/to/data_export';
+
+
+% Path to subject file list (e.g., allnames.mat; NOT included)
+cfg.path_allnames = '/path/to/allnames.mat';
+
